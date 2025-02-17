@@ -1,6 +1,7 @@
 # Blood transfusion risk prediction
  GNN model for prediction of risk od blood transfusion among hospitalized patients
-
+![](transfusion.jpg)
+* Patients' similariy graph incorporating various data elements from electronic health records.
 ## requirements
 
 Place cohort file in data/raw
